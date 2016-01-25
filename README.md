@@ -10,7 +10,8 @@ location / {
 ```
 
 ### apache .htaccess
-```RewriteEngine On
+```
+RewriteEngine On
 RewriteBase /macaw
 
 RewriteCond %{REQUEST_FILENAME} !-f
