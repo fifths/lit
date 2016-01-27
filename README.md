@@ -2,6 +2,15 @@
 
 ### diy framework
 
+```
+    "noahbuscher/macaw": "dev-master",
+    "illuminate/database": "*",
+    "filp/whoops": "*",
+    "nette/mail": "*",
+    "predis/predis": "*"
+```
+
+
 #### ngingx
 ```
 location / {
